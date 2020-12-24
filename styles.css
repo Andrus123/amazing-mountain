@@ -156,3 +156,10 @@ header{
     font-weight: var(--fw-black);
     font-size: 3rem;
 }
+
+.video {
+    align-items: center;
+    margin: 40px;
+    margin-left: auto;
+    margin-right: auto;
+}
